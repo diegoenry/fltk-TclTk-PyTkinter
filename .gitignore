@@ -1,0 +1,21 @@
+# Build
+build/
+*.o
+*.a
+*.so
+*.dylib
+
+# Python virtual environment
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sphinx docs build
+docs/_build/
+
+# macOS
+.DS_Store
